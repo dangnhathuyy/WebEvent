@@ -110,7 +110,7 @@ a {
 body {
     font: 12px Helvetica, Arial, sans-serif;
     color: #282828;
-    background: #1c212f url(../images/bg.png) repeat;
+    background: #1c212f url(./images/bg.png) repeat;
 }
 
 a {
@@ -236,7 +236,7 @@ a:hover {
     display: block;
     width: 16px;
     height: 16px;
-    background: url(../images/earth.png) no-repeat 0 0;
+    background: url(./images/earth.png) no-repeat 0 0;
 }
 
 .header .topBarGarena {
@@ -305,47 +305,47 @@ a:hover {
 }
 
 .content .partnerLink .icon-garena {
-    background: url(../images/logo-garena.png) no-repeat 0 0;
+    background: url(./images/logo-garena.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
 .content .partnerLink .icon-beetalk {
-    background: url(../images/logo-beetalk.png) no-repeat 0 0;
+    background: url(./images/logo-beetalk.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
 .content .partnerLink .icon-facebook {
-    background: url(../images/logo-facebook.png) no-repeat 0 0;
+    background: url(./images/logo-facebook.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
 .content .partnerLink .icon-line {
-    background: url(../images/logo-line.png) no-repeat 0 0;
+    background: url(./images/logo-line.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
 .content .partnerLink .icon-vk {
-    background: url(../images/logo-vk.png) no-repeat 0 0;
+    background: url(./images/logo-vk.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
 .content .partnerLink .icon-google {
-    background: url(../images/logo-google.png) no-repeat 0 0;
+    background: url(./images/logo-google.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
 .content .partnerLink .icon-huawei {
-    background: url(../images/logo-huawei.png) no-repeat 0 0;
+    background: url(./images/logo-huawei.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
 .content .partnerLink .icon-apple {
-    background: url(../images/logo-apple.png) no-repeat 0 0;
+    background: url(./images/logo-apple.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
 .content .partnerLink .icon-twitter {
-    background: url(../images/logo-twitter.png) no-repeat 0 0;
+    background: url(./images/logo-twitter.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
@@ -504,7 +504,7 @@ a:hover {
     padding-right: 5px;
     width: 8px;
     height: 8px;
-    background: url(../images/error.png) no-repeat 0 0;
+    background: url(./images/error.png) no-repeat 0 0;
 }
 
 .content .loginForm .line .code {
@@ -533,7 +533,7 @@ a:hover {
     height: 20px;
     margin: 10px 0 0 10px;
     text-indent: -9999em;
-    background: url(../images/refresh.png) no-repeat 0 0;
+    background: url(./images/refresh.png) no-repeat 0 0;
 }
 
 .content .loginForm .line label {
@@ -552,7 +552,7 @@ a:hover {
 }
 
 .content .loginForm .line .checked {
-    background: #ffffff url(../images/checked.png) no-repeat center center;
+    background: #ffffff url(./images/checked.png) no-repeat center center;
 }
 
 .content .loginForm .line input[type='checkbox'] {
@@ -763,7 +763,7 @@ a:hover {
     display: block;
     width: 18px;
     height: 12px;
-    background: url(../images/right.png) no-repeat 0 0;
+    background: url(./images/right.png) no-repeat 0 0;
 }
 
 .content .loginForm .line {
@@ -838,7 +838,7 @@ a:hover {
 }
 
 .mobile .content .loginForm .line select {
-    background: #ffffff url(../images/arrow-down.png) no-repeat 96% 18px;
+    background: #ffffff url(./images/arrow-down.png) no-repeat 96% 18px;
     padding: 10px 20px;
 }
 
@@ -953,7 +953,7 @@ a:hover {
     width: 13px;
     height: 22px;
     margin: 7px 10px 0 0;
-    background: url(../images/icon-phone.png) no-repeat 0 0;
+    background: url(./images/icon-phone.png) no-repeat 0 0;
     background-size: 100%;
 }
 
@@ -1250,7 +1250,7 @@ a:hover {
     display: inline-block;
     width: 56px;
     height: 46px;
-    background: url(../images/alert.png) no-repeat 0 0;
+    background: url(./images/alert.png) no-repeat 0 0;
     background-size: 100% 100%;
 }
 
@@ -1265,6 +1265,10 @@ a:hover {
     line-height: 50px;
     text-align: center;
     color: #cc2200;
+}
+
+img {
+    vertical-align: middle;
 }
 
 /* link page */
@@ -1365,7 +1369,7 @@ a:hover {
     width: 18px;
     height: 12px;
     margin-right: 15px;
-    background: url(../images/right.png) no-repeat 0 0;
+    background: url(./images/right.png) no-repeat 0 0;
 }
 
 .mobile .content .loginForm .line .icon .icon-right {
@@ -1377,7 +1381,7 @@ a:hover {
     width: 27px;
     height: 17px;
     margin: -2px 15px 0 0;
-    background: url(../images/icon-eye.png) no-repeat 0 0;
+    background: url(./images/icon-eye.png) no-repeat 0 0;
     background-size: 100%;
 }
 
@@ -1386,7 +1390,7 @@ a:hover {
     width: 27px;
     height: 17px;
     margin: -2px 15px 0 0;
-    background: url(../images/icon-eye-grey.png) no-repeat 0 0;
+    background: url(./images/icon-eye-grey.png) no-repeat 0 0;
     background-size: 100%;
 }
 
@@ -1425,7 +1429,7 @@ select.lang {
 }
 
 .content .link-mobile-title .title-margin .icon-pc-back {
-    background: url(../images/icon-pc-back.png) no-repeat 0 0;
+    background: url(./images/icon-pc-back.png) no-repeat 0 0;
     background-size: 100% 100%;
     width: 30px;
     height: 30px;
@@ -1433,7 +1437,7 @@ select.lang {
 }
 
 .content .icon-mobile-back {
-    background: url(../images/icon-mobile-back.png) no-repeat 0 0;
+    background: url(./images/icon-mobile-back.png) no-repeat 0 0;
     background-size: 100% 100%;
     width: 12px;
     height: 25px;
@@ -1522,14 +1526,14 @@ select.lang {
 }
 
 .display-mobile-number .icon-phone-pc {
-    background: url(../images/icon-pc-phone.png) no-repeat 0 0;
+    background: url(./images/icon-pc-phone.png) no-repeat 0 0;
     background-size: 100% 100%;
     width: 30px;
     height: 30px;
 }
 
 .display-mobile-number .icon-phone-mobile {
-    background: url(../images/icon-mobile-phone.png) no-repeat 0 0;
+    background: url(./images/icon-mobile-phone.png) no-repeat 0 0;
     background-size: 100% 100%;
     width: 30px;
     height: 30px;
